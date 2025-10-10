@@ -1,4 +1,4 @@
 # Behavioral Leadership
 
- * [Behavioral_Leadership_Project](./Behavioral_Leadership_Project)
- * [Behavioral_Leadership_Theory](./Behavioral_Leadership_Theory)
+ * [Strategic_Thinking](./Strategic_Thinking)
+ * [Product_Management](./Product_Management)
