@@ -1,4 +1,4 @@
-# Behavioral Leadership
+# behavioral leadership
 
- * [Product_Thinking](./Product_Thinking)
- * [Strategic_Thinking](./Strategic_Thinking)
+ * [product_thinking](./product_thinking)
+ * [strategic_thinking](./strategic_thinking)
