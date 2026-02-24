@@ -1,1 +1,0 @@
-# strategic thinking

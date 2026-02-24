@@ -1,4 +1,4 @@
 # behavioral leadership
 
- * [product_thinking](./product_thinking)
- * [strategic_thinking](./strategic_thinking)
+ * [Decision_Making](./Decision_Making)
+ * [Ownership_Control](./Ownership_Control)
